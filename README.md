@@ -32,5 +32,5 @@ Comprehending the listed concepts really just boils down to one's web searching 
 
 ## Helpful Links
 
-[HTML & CSS](https://developer.mozilla.org/)
-[Color palettes](https://coolors.co/)
+* [HTML & CSS](https://developer.mozilla.org/)
+* [Color palettes](https://coolors.co/)
