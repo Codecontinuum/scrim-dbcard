@@ -2,8 +2,6 @@
 
 # Web dev basics, Module 02: Build a digital business card
 
-***
-
 ## Overview
 
 This is a coding challenge provided as part of the Scrimba frontend developer career path. 
